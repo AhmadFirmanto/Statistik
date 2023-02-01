@@ -1,2 +1,4 @@
 # Statistik
-Data
+
+## Pyton Statisik 
+* uji-t
