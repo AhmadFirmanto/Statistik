@@ -11,7 +11,7 @@
     - kuartil 3 (kuartil atas) 75
   - nilai maksimum
   - nilai minimum
- * statistika inferansial
+* [statistika inferansial](https://github.com/AhmadFirmanto/Statistik/blob/main/inferensial.ipynb)
   - Z-score
 * [uji-t](https://github.com/AhmadFirmanto/Statistik/blob/main/t_stat.ipynb)
   - uji normalitas
