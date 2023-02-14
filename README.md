@@ -16,3 +16,5 @@
   - uji homogenitas
   - uji t
 * [ANOVA](https://github.com/AhmadFirmanto/Statistik/blob/main/anova.ipynb)
+  - varian within = varian dalam
+  - varian betwen = varian luar
