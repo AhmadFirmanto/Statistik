@@ -12,4 +12,7 @@
   - nilai maksimum
   - nilai minimum
 * [uji-t](https://github.com/AhmadFirmanto/Statistik/blob/main/t_stat.ipynb)
+  - uji normalitas
+  - uji homogenitas
+  - uji t
 * [ANOVA](https://github.com/AhmadFirmanto/Statistik/blob/main/anova.ipynb)
