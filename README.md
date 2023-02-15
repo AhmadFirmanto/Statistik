@@ -24,7 +24,6 @@
   - D'Agostino's K-squered Test
   - Jarque - Bera Test
   - Chisquere Test
-  - Anderson - Darling Test
 * [uji-t](https://github.com/AhmadFirmanto/Statistik/blob/main/t_stat.ipynb)
   - independent T test = tidak ada kaitanya antar variabel
   - paired sample T Test = ada kaitanya antar variabel
