@@ -24,6 +24,7 @@
   - D'Agostino's K-squered Test
   - Jarque - Bera Test
   - Chisquere Test
+* [confidence interval](https://github.com/AhmadFirmanto/Statistik/blob/main/confiden_interval.ipynb)
 * [uji-t](https://github.com/AhmadFirmanto/Statistik/blob/main/t_stat.ipynb)
   - independent T test = tidak ada kaitanya antar variabel
   - paired sample T Test = ada kaitanya antar variabel
