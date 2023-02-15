@@ -19,7 +19,7 @@
   - alpha = 0.05
     - p-value di bawah alpha = tolak H0 dan terima H1 = signifikan
     - p-value di atas alpha = terima H0 dan tolak H1 = tidak signifikan
-* uji normalitas
+* [uji normalitas](https://github.com/AhmadFirmanto/Statistik/blob/main/normal.ipynb)
   - shapiro - wilk test
   - D'Agostino's K-squered Test
   - Jarque - Bera Test
