@@ -19,6 +19,12 @@
   - alpha = 0.05
     - p-value di bawah alpha = tolak H0 dan terima H1 = signifikan
     - p-value di atas alpha = terima H0 dan tolak H1 = tidak signifikan
+* uji normalitas
+  1. shapiro - wilk test
+  2. D'Agostino's K-squered Test
+  3. Jarque - Bera Test
+  4. Chisquere Test
+  5. Anderson - Darling Test
 * [uji-t](https://github.com/AhmadFirmanto/Statistik/blob/main/t_stat.ipynb)
   - independent T test = tidak ada kaitanya antar variabel
   - paired sample T Test = ada kaitanya antar variabel
