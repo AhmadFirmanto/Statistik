@@ -13,10 +13,13 @@
   - nilai minimum
 * [statistika inferansial](https://github.com/AhmadFirmanto/Statistik/blob/main/inferensial.ipynb)
   - Z-score
+* p-value
+  - hipotesis
+  - hipotesis nol(H0) & hipotesis alternatif (H1)
+  - alpha = 0.05
+    - p-value di bawah alpha = tolak H0 dan terima H1 = signifikan
+    - p-value di atas alpha = terima H0 dan tolak H1 = tidak signifikan
 * [uji-t](https://github.com/AhmadFirmanto/Statistik/blob/main/t_stat.ipynb)
-  - uji normalitas
-  - uji homogenitas
-  - uji t
 * [ANOVA](https://github.com/AhmadFirmanto/Statistik/blob/main/anova.ipynb)
   - varian within = varian dalam
   - varian betwen = varian luar
